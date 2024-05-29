@@ -11,9 +11,8 @@ I'm a Data Scientist | C# .NET MAUI software developer | Writer | Polyglot
 
 ## 🛠 Skills
 Data Science | Artificial Intelligence | Machine Learning | Deep Learning | Software Development | Python scripting | Microsoft tools
+
                          ### Tech Stack
-
-
 - [Python](https://python.org)
 - [C#](https://dotnet.microsoft.com/en-us/languages/csharp)
 - [Visual Studio](https://visualstudio.microsoft.com)
