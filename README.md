@@ -63,3 +63,5 @@ Data Science | Artificial Intelligence | Machine Learning | Deep Learning | Soft
 <a href="http://www.github.com/Brainydaps"><img src="https://github-readme-stats.vercel.app/api?username=Brainydaps&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Brainydaps's GitHub stats" /></a>
 
 <a href="https://github.com/Brainydaps" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brainydaps&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31iqlusftljjgy7l3lpbbqlbnnku&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
