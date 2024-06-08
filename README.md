@@ -54,7 +54,17 @@ Data Science | Artificial Intelligence | Machine Learning | Deep Learning | Soft
 😄 Pronouns: He/Him
 
 
-⚡️ Fun facts: I wrote my first book in primary school | I finished 300 book sumaries within the year 2022 | I was almost a straight A student in high school, short by english and biology.  | I learnt to read and write french (B1 level) fluently in 1 year | I started python programming in 2015 | I finished 8 intensive tech courses with all their certificates available online within 5 months. 
+## Fun Facts about me:
+
+* I wrote my first book in primary school, it was a horror story book(I didnt publish it).  :😱
+* I was almost a straight A student in high school, short by english and biology. 🏆
+* I was obssessed with further math in high school, especially calculus to the point of proofing math formulars using calculus instead of just memorising(I hated cramming) 🧠
+* I started my independent python programming in 2015 outside school work. 💻
+* I finished over 300 book sumaries within the year 2022 📚
+*  I taught myself to read and write french (B1 level) fluently within a year, just to challenge myself, using duolingo and anki. 🗺
+* I finished over 8 intensive paid tech courses online to refine and update my already gained knowledge/skills and to put certificates to them within 6 months. 🥇 🤝
+* My daily routines includes mindfulness meditation, learning french, tech upskilling and refinement, idea/mood/gratitude journaling, reflecting on my day and a daily dose of music on spotify. 🧘
+
 
 <br/>  
 
