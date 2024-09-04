@@ -84,6 +84,7 @@ Data Science | Artificial Intelligence | Machine Learning | Deep Learning | Soft
 
 ## Fun Facts about me:
 
+* I became a kaggle 2x Gold medalist Expert (Datasets/Notebooks), LinkedIn Top Data Science Voice and Top Data Mining Voice, garnered over 100 stars on my github repos; all within a period of 4 months(May to September 2024) through strategic planning, consistent execution of the plan and sheer resilience against obstacles along the way. 
 * I wrote my first book in primary school, it was a horror story book(I didnt publish it).  :😱
 * I was almost a straight A student in high school, short by english and biology. 🏆
 * I was obssessed with further math in high school, especially calculus to the point of proofing math formulars using calculus instead of just memorising(I hated cramming) 🧠
