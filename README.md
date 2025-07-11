@@ -75,9 +75,11 @@ Data Science | Artificial Intelligence | Machine Learning | Deep Learning | Soft
 
 👩‍💻 I'm currently working on numerous Data Science projects
 
-🧠 I'm building on my existing skills and knowledge in data science, AI, machine learning, deep learning and software development on:
+🧠 I was building on my existing skills and knowledge in data science, AI, machine learning, deep learning and software development on:
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://udemy.com)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://sololearn.com)
+
+Right now im sharpening my Data Science/AI Software Development skills by reading books from Industrial Experts like Mark J Price and Roger Ye. I also regularly read articles from CODE magazines, AI Matters journals from ACM SIGAI , Brilliant.org and Hyperskill. 
 
 😄 Pronouns: He/Him
 
