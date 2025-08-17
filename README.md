@@ -66,20 +66,20 @@ src="https://img.shields.io/github/followers/Brainydaps?logo=github&style=for-th
 [![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://scipy.org)
 [![SciKitLearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org)
-[![Matplotlib](https://camo.githubusercontent.com/337bf03c5d22b3dfe34a51e246a25e2eaadcb9dd7a668e2bed0261255d8afc42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174706c6f746c69622d2532336666666666662e7376673f7374796c653d666c6174266c6f676f3d4d6174706c6f746c6962266c6f676f436f6c6f723d626c61636b)](https://matplotlib.org)
+
 
  
  </td></tr></table>  
-Data Science | Artificial Intelligence | Machine Learning | Deep Learning | Software Development | Python scripting | Microsoft tools
+Data Science | Artificial Intelligence | Machine Learning | Deep Learning | Software Development | Python Scripting | Microsoft tools
 
 
-👩‍💻 I'm currently working on numerous Data Science projects
+👩‍💻 I was working on numerous Data Science projects. Now upskilling my core software development skills through books, paid videos tutorials and coding practice. 
 
 🧠 I was building on my existing skills and knowledge in data science, AI, machine learning, deep learning and software development on:
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://udemy.com)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://sololearn.com)
 
-Right now im sharpening my Data Science/AI Software Development skills by reading books from Industrial Experts like Mark J Price and Roger Ye. I also regularly read articles from CODE magazines, AI Matters journals from ACM SIGAI , Brilliant.org and Hyperskill. 
+Right now im sharpening my AI Software Development skills by reading books from Industrial Experts like Mark J Price, Neil Smyth, Joseph Albahari, Aristides Bouras, Marcin Jamro, Jason Alls, Roger Ye among others ! Watching paid video tutorials (pluralsight and LinkedIn learning) from Gill Cleeren, Chris Miller, Kevin Ford, Matt Milner, Joe Martini among many others! I also regularly read articles from CODE magazines, AI Matters journals from ACM SIGAI , Brilliant.org and Hyperskill. In addition to learning from experimentations and solving coding challenges on exercism. 
 
 😄 Pronouns: He/Him
 
