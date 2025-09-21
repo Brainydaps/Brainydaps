@@ -54,14 +54,13 @@ src="https://img.shields.io/github/followers/Brainydaps?logo=github&style=for-th
 <div align="center">   
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" height="50" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>
 </div>
 
 </td><td valign="top" width="60%">
 
 ### Tech Stack
- [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp) [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com) [![.NET MAUI](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/maui) [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com) [![MS SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://microsoft.com/en-us/sql-server/sql-server-2022) [![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://microsoft.com/en-us/microsoft-365/excel) [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://tableau.com) [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://canva.com) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org) [![Spyder](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)](https://spyder-ide.org) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org) [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+ [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp) [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com) [![.NET MAUI](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/maui) [![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://microsoft.com/en-us/microsoft-365/excel) [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://tableau.com) [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://canva.com) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org) [![Spyder](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)](https://spyder-ide.org) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org) [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 [![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://scipy.org)
 [![SciKitLearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
@@ -81,9 +80,10 @@ Data Science | Artificial Intelligence | Machine Learning | Deep Learning | Soft
 
 Right now im sharpening my AI Software Development skills by reading books from Industrial Experts like Mark J Price, Neil Smyth, Joseph Albahari, Aristides Bouras, Marcin Jamro, Jason Alls, Roger Ye among others ! Watching paid video tutorials (pluralsight and LinkedIn learning) from Gill Cleeren, Chris Miller, Kevin Ford, Matt Milner, Joe Martini among many others! I also regularly read articles from CODE magazines, AI Matters journals from ACM SIGAI , Brilliant.org and Hyperskill. In addition to learning from experimentations and solving coding challenges on exercism. 
 
-Checkout what im learning learning on pluralsight:
+Checkout some of what im currently learning/practising on pluralsight/exercism:
 
-[![PluralSight Profile](https://app.pluralsight.com/profile/Brainydaps)
+[![PluralSight Profile](https://img.shields.io/badge/Pluralsight-F15B2A?logo=pluralsight&logoColor=fff&style=flat-square)](https://app.pluralsight.com/profile/Brainydaps)
+[![Exercism Profile](https://img.shields.io/badge/Exercism-8A5DFF?logo=exercism&logoColor=fff&style=flat-square)](https://exercism.org/profiles/Brainydaps)
 
 
 😄 Pronouns: He/Him
