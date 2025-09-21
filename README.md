@@ -81,6 +81,11 @@ Data Science | Artificial Intelligence | Machine Learning | Deep Learning | Soft
 
 Right now im sharpening my AI Software Development skills by reading books from Industrial Experts like Mark J Price, Neil Smyth, Joseph Albahari, Aristides Bouras, Marcin Jamro, Jason Alls, Roger Ye among others ! Watching paid video tutorials (pluralsight and LinkedIn learning) from Gill Cleeren, Chris Miller, Kevin Ford, Matt Milner, Joe Martini among many others! I also regularly read articles from CODE magazines, AI Matters journals from ACM SIGAI , Brilliant.org and Hyperskill. In addition to learning from experimentations and solving coding challenges on exercism. 
 
+Checkout what im learning learning on pluralsight:
+
+[![PluralSight Profile](https://app.pluralsight.com/profile/Brainydaps)
+
+
 😄 Pronouns: He/Him
 
 
