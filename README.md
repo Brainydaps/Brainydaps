@@ -102,15 +102,21 @@ Checkout some of what im currently learning/practising/mentoring on pluralsight/
 * My daily routines includes mindfulness meditation, learning french, tech upskilling and refinement, idea/mood/gratitude journaling, reflecting on my day and a daily dose of music on spotify. 🧘
 
 
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
-<a href="http://www.github.com/Brainydaps"><img src="https://github-readme-stats.vercel.app/api?username=Brainydaps&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Brainydaps's GitHub stats" /></a> 
-<a href="https://github.com/Brainydaps" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brainydaps&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+<a href="https://github.com/Brainydaps">
+  <img align="left" alt="Brainydaps's GitHub stats"
+       src="https://github-readme-stats.vercel.app/api?username=Brainydaps&show_icons=true&count_private=true&include_all_commits=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&cache_seconds=86400" />
 </a>
 
-<br>  
+<a href="https://github.com/Brainydaps" align="left">
+  <img alt="Top Languages"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brainydaps&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&cache_seconds=86400" />
+</a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Brainydaps&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<br clear="both" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Brainydaps&theme=onedark&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
