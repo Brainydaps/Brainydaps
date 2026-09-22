@@ -107,38 +107,56 @@ Checkout some of what im currently learning/practising/mentoring on pluralsight/
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img alt="GitHub stats for Brainydaps (public repositories, includes total stars earned)" src="https://github-readme-stats.hackclub.dev/api?username=Brainydaps&theme=onedark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
+  <img alt="Self-hosted GitHub metrics stats for Brainydaps" src="./metrics/stats.svg" />
 </p>
 
-<p align="left">
+<details>
+  <summary>Fallback cards (third-party providers)</summary>
+
+  <p align="left">
+  <img alt="GitHub stats for Brainydaps (public repositories, includes total stars earned)" src="https://github-readme-stats.hackclub.dev/api?username=Brainydaps&theme=onedark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
   <img alt="GitHub contribution streak for Brainydaps" src="https://streak-stats.demolab.com?user=Brainydaps&theme=onedark&hide_border=true" />
-</p>
+  </p>
+</details>
 
 > Public GitHub activity metrics for @Brainydaps from GitHub API data (stars earned across public repositories, commits, PRs, issues, and contributed-to repositories).
 
 ## 🧑‍💻 Top Languages
 
 <p align="left">
-  <img alt="Top languages used across Brainydaps public repositories" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=Brainydaps&layout=compact&theme=onedark&langs_count=10&hide_border=true" />
+  <img alt="Self-hosted top languages metrics for Brainydaps" src="./metrics/languages.svg" />
 </p>
 
-<p align="left">
+<details>
+  <summary>Fallback cards (third-party providers)</summary>
+
+  <p align="left">
+  <img alt="Top languages used across Brainydaps public repositories" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=Brainydaps&layout=compact&theme=onedark&langs_count=10&hide_border=true" />
   <img alt="Repositories per language for Brainydaps" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brainydaps&theme=github_dark" />
   <img alt="Most commits per language for Brainydaps" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brainydaps&theme=github_dark" />
-</p>
+  </p>
+</details>
 
 > Language breakdown is based on public repository code analyzed by GitHub Linguist and may exclude private repos plus generated/vendor files.
 
 ## 🏆 GitHub Trophies
 
 <p align="left">
+  <img alt="Self-hosted GitHub achievements metrics for Brainydaps" src="./metrics/achievements.svg" />
+</p>
+
+<details>
+  <summary>Fallback cards (third-party providers)</summary>
+
+  <p align="left">
   <img alt="GitHub profile trophies for Brainydaps" src="https://github-profile-trophy.vercel.app/?username=Brainydaps&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</p>
-
-<p align="left">
   <img alt="Profile details summary card for Brainydaps" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brainydaps&theme=github_dark" />
-</p>
-
-<p align="left">
   <img alt="Profile views counter for Brainydaps" src="https://komarev.com/ghpvc/?username=Brainydaps&style=for-the-badge&color=0891b2" />
-</p>
+  </p>
+</details>
+
+## Setup
+
+- Add a repository secret named `METRICS_TOKEN` with a classic Personal Access Token that has `public_repo` scope.
+- Run the workflow once manually via **Actions → GitHub Metrics → Run workflow** so the SVG files are generated and committed.
+- Until that first successful run completes, `./metrics/stats.svg`, `./metrics/languages.svg`, and `./metrics/achievements.svg` will return 404 because the `metrics/` files do not exist yet.
