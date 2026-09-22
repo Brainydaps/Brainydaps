@@ -44,8 +44,8 @@ src="https://img.shields.io/github/followers/Brainydaps?logo=github&style=for-th
  
 ### Frontend  
 <div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="50" /></a>
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>
 <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>
 </div>
 </td><td valign="top" width="20%">
@@ -60,7 +60,7 @@ src="https://img.shields.io/github/followers/Brainydaps?logo=github&style=for-th
 </td><td valign="top" width="60%">
 
 ### Tech Stack
- [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp) [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com) [![.NET MAUI](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/maui) [![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://microsoft.com/en-us/microsoft-365/excel) [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://tableau.com) [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://canva.com) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org) [![Spyder](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)](https://spyder-ide.org) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org) [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+ [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp) [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com)
 [![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 [![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://scipy.org)
 [![SciKitLearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
@@ -78,7 +78,7 @@ Data Science | Artificial Intelligence | Machine Learning | Deep Learning | Soft
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://udemy.com)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://sololearn.com)
 
-Right now im sharpening my AI Software Development skills by reading books from Industrial Experts like Mark J Price, Neil Smyth, Joseph Albahari, Aristides Bouras, Marcin Jamro, Jason Alls, Roger Ye among others ! Watching paid video tutorials (pluralsight and LinkedIn learning) from Gill Cleeren, Chris Miller, Kevin Ford, Matt Milner, Joe Martini among many others! I also regularly read articles from CODE magazines, AI Matters journals from ACM SIGAI , Brilliant.org and Hyperskill. In addition to learning from experimentations and solving coding challenges on exercism. 
+Right now im sharpening my AI Software Development skills by reading books from Industrial Experts like Mark J Price, Neil Smyth, Joseph Albahari, Aristides Bouras, Marcin Jamro, Jason Alls, Roger Villela and others.
 
 Checkout some of what im currently learning/practising/mentoring on pluralsight/exercism:
 
@@ -91,7 +91,7 @@ Checkout some of what im currently learning/practising/mentoring on pluralsight/
 
 ## Fun Facts about me:
 
-* I got awarded Microsoft MVP title (in 2025 .NET category) , became Microsoft Certified AI Engineer on my very first exam attempt scoring 97 points above pass mark, entered the top 0.5% ranked Data Scientists worldwide(Kaggle) in two categories(Datasets/Notebooks) earning 12 gold medals, 9 silver, 23 bronze medals and 16 badges for my contributions amassing 131 followers(14 kaggle grandmasters, 18 masters and 61 experts), recognized as LinkedIn community Top Voice in both the Data Science and Data Mining skills, amassed over 120 stars, 3 badges and 1500+ followers on my github repos and profile; all within a period of 10 months(May 2024 to March 2025) through strategic planning, consistent execution of the plan and brute resilience against obstacles along the way. 
+* I got awarded Microsoft MVP title (in 2025 .NET category) , became Microsoft Certified AI Engineer on my very first exam attempt scoring 97 points above pass mark, entered the top 0.5% ranked Data Scientist worldwide on Kaggle.
 * I wrote my first book in primary school, it was a horror story book(I didnt publish it).  :😱
 * I was almost a straight A student in high school, short by english and biology. 🏆
 * I was obssessed with further math in high school, especially calculus to the point of proofing math formulars using calculus instead of just memorising(I hated cramming) 🧠
@@ -99,23 +99,46 @@ Checkout some of what im currently learning/practising/mentoring on pluralsight/
 * I finished over 300 book sumaries within the year 2022 📚
 *  I taught myself to read and write french (B1 level) fluently within a year, just to challenge myself, using duolingo and anki. 🗺
 * I finished over 8 intensive paid tech courses online to refine and update my already gained knowledge/skills and to put certificates to them within 6 months. 🥇 🤝
-* My daily routines includes mindfulness meditation, learning french, tech upskilling and refinement, idea/mood/gratitude journaling, reflecting on my day and a daily dose of music on spotify. 🧘
+* My daily routines includes mindfulness meditation, learning french, tech upskilling and refinement, idea/mood/gratitude journaling, reflecting on my day and a daily dose of music on spotify. 🎧
 
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
 
-### GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub stats for Brainydaps (public repositories, includes total stars earned)](https://github-readme-stats.vercel.app/api?username=Brainydaps&theme=onedark&show_icons=true&include_all_commits=true&rank_icon=github)
+<p align="left">
+  <img alt="GitHub stats for Brainydaps (public repositories, includes total stars earned)" src="https://github-readme-stats.hackclub.dev/api?username=Brainydaps&theme=onedark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
+</p>
 
-> Public GitHub activity metrics for @Brainydaps from GitHub API data (for example stars earned across public repositories, commits, PRs, issues, and contributed-to repositories).
+<p align="left">
+  <img alt="GitHub contribution streak for Brainydaps" src="https://streak-stats.demolab.com?user=Brainydaps&theme=onedark&hide_border=true" />
+</p>
 
-### Top Languages
+> Public GitHub activity metrics for @Brainydaps from GitHub API data (stars earned across public repositories, commits, PRs, issues, and contributed-to repositories).
 
-![Top languages used across Brainydaps public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=Brainydaps&layout=compact&theme=onedark&langs_count=10)
+## 🧑‍💻 Top Languages
+
+<p align="left">
+  <img alt="Top languages used across Brainydaps public repositories" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=Brainydaps&layout=compact&theme=onedark&langs_count=10&hide_border=true" />
+</p>
+
+<p align="left">
+  <img alt="Repositories per language for Brainydaps" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brainydaps&theme=github_dark" />
+  <img alt="Most commits per language for Brainydaps" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brainydaps&theme=github_dark" />
+</p>
 
 > Language breakdown is based on public repository code analyzed by GitHub Linguist and may exclude private repos plus generated/vendor files.
 
-### GitHub Trophies
+## 🏆 GitHub Trophies
 
-![GitHub profile trophies for Brainydaps](https://github-profile-trophy.vercel.app/?username=Brainydaps&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+<p align="left">
+  <img alt="GitHub profile trophies for Brainydaps" src="https://github-profile-trophy.vercel.app/?username=Brainydaps&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</p>
+
+<p align="left">
+  <img alt="Profile details summary card for Brainydaps" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brainydaps&theme=github_dark" />
+</p>
+
+<p align="left">
+  <img alt="Profile views counter for Brainydaps" src="https://komarev.com/ghpvc/?username=Brainydaps&style=for-the-badge&color=0891b2" />
+</p>
