@@ -155,8 +155,3 @@ Checkout some of what im currently learning/practising/mentoring on pluralsight/
   </p>
 </details>
 
-## Setup
-
-- Add a repository secret named `METRICS_TOKEN` with a classic Personal Access Token that has `public_repo` scope.
-- Run the workflow once manually via **Actions → GitHub Metrics → Run workflow** so the SVG files are generated and committed.
-- Until that first successful run completes, `./metrics/stats.svg`, `./metrics/languages.svg`, and `./metrics/achievements.svg` will return 404 because the `metrics/` files do not exist yet.
